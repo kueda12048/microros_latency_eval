@@ -1,0 +1,7 @@
+memo.md
+.vscode
+.pio
+build
+install
+log
+*.code-workspace
